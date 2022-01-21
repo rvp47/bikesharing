@@ -46,5 +46,4 @@ Additional visualizations that could be performed given the dataset could be per
 - The top starting and top ending locations with respect to the hour and to the day. This would show where and when Citi Bikes are being used in a more comprehensive way. 
 - The starting station id's and name with the highest traffic. The team can get then look into why these stations are performing better than others.
 
-Link to the NYC Citi Bike Story.
-https://public.tableau.com/views/NYCCitiBike_16427169816350/NYCCitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+![Link to the NYC Citi Bike Story.](https://public.tableau.com/views/NYCCitiBike_16427169816350/NYCCitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
