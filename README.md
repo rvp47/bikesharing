@@ -1,9 +1,9 @@
 # NYC Citi Bike Analysis
 
+![CheckoutTimesforUsers](https://user-images.githubusercontent.com/90656004/150448070-0a14d9ab-26c0-44e7-89de-3b269e29f2ac.PNG)
 
-[CheckoutTimesforUsers](https://user-images.githubusercontent.com/90656004/150447934-6a93338c-29cd-4d1a-9b91-23a59a0d7eee.PNG)
+![TripsbyWeekdayforEachHour](https://user-images.githubusercontent.com/90656004/150448340-2ba59874-0cd2-4474-936b-a7a20fb3269f.PNG)
 
-![TripsbyWeekdayforEachHour](https://user-images.githubusercontent.com/90656004/150447946-bfa01045-3089-4734-8940-3c4b651c88bb.PNG)
 
 ![TripsbyGender_WeekdayPerHour](https://user-images.githubusercontent.com/90656004/150447964-b9d30631-e618-4d6a-88f9-4d0a4e1eab83.PNG)
 
